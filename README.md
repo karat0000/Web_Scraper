@@ -6,6 +6,13 @@ Sure! Here's a README description for your web scraping project in Python:
 
 This Python script is a simple web scraper designed to extract various types of content from a given webpage and save it to a CSV file. The script uses the `requests` library to fetch the webpage and `BeautifulSoup` from the `bs4` library to parse the HTML content.
 
+
+## Video Demo
+
+Watch the video below to see a demonstration of how the web scraper works:
+
+[![Watch the video](https://img.youtube.com/vi/UPSiUP6fNNc/hqdefault.jpg)](https://www.youtube.com/watch?v=UPSiUP6fNNc)
+
 ## Features
 
 - Fetches webpage content based on user-provided URL.
