@@ -1,6 +1,3 @@
-Sure! Here's a README description for your web scraping project in Python:
-
----
 
 # Web Scraper
 
